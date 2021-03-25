@@ -1,0 +1,2 @@
+# Dynamic-Model-Implementation-for-Smart-Solid-Waste-Collection
+Definition of a smart solid waste collection system. The implementation is done considering a dynamic approach for the collection of municipal garbage and exploits the information from smart bins to monitor the level of waste filling in the model of the city. A simulation is realized in order to compare the behavior of the proposed smart approach with the static policy employed by many waste collection operators today (fixed routes and predetermined pick-up frequencies).
